@@ -1,0 +1,62 @@
+{
+  "eyebrow": "Formación académica",
+  "title": "Currículum virtual",
+  "description": "Trayectoria técnica organizada por etapas de aprendizaje, tecnologías utilizadas y conocimientos adquiridos.",
+  "columns": [
+    {
+      "id": "base-2024",
+      "year": "2024",
+      "title": "Formación Base",
+      "subtitle": "Fundamentos de programación y datos",
+      "icon": "foundation",
+      "technologies": [
+        "PSeInt",
+        "MySQL"
+      ],
+      "learnings": [
+        "Lógica de programación",
+        "Algoritmos",
+        "Estructuras básicas",
+        "Modelado de datos",
+        "Consultas fundamentales"
+      ]
+    },
+    {
+      "id": "specialization-2025",
+      "year": "2025",
+      "title": "Especialización",
+      "subtitle": "Backend y construcción de interfaces",
+      "icon": "specialization",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "CSS"
+      ],
+      "learnings": [
+        "Programación orientada a objetos",
+        "Servicios backend",
+        "Organización de proyectos",
+        "Maquetación web",
+        "Integración de lógica y presentación"
+      ]
+    },
+    {
+      "id": "practice-2026",
+      "year": "2026",
+      "title": "Práctica Real",
+      "subtitle": "Aplicaciones modernas por componentes",
+      "icon": "practice",
+      "technologies": [
+        "React",
+        "JavaScript"
+      ],
+      "learnings": [
+        "Desarrollo por componentes",
+        "Manejo de estado",
+        "Interfaces interactivas",
+        "Consumo de datos",
+        "Organización de aplicaciones modernas"
+      ]
+    }
+  ]
+}

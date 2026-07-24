@@ -1,0 +1,49 @@
+{
+  "eyebrow": "Proyección profesional",
+  "title": "Aspiraciones",
+  "description": "Metas organizadas por horizonte de tiempo, desde la formación académica hasta la creación de una agencia tecnológica.",
+  "items": [
+    {
+      "id": "goal-one-year",
+      "period": "A un año",
+      "shortPeriod": "1 año",
+      "title": "Consolidar la formación",
+      "description": "Graduarme, fortalecer mis conocimientos en desarrollo web, obtener certificaciones y comenzar a participar en proyectos reales dentro del mercado tecnológico guatemalteco.",
+      "icon": "graduation",
+      "focusAreas": [
+        "Graduación",
+        "Desarrollo web",
+        "Certificaciones",
+        "Proyectos reales"
+      ]
+    },
+    {
+      "id": "goal-three-years",
+      "period": "A tres años",
+      "shortPeriod": "3 años",
+      "title": "Construir experiencia Full Stack",
+      "description": "Adquirir experiencia sólida como desarrollador Full Stack, trabajando en aplicaciones completas para empresas, emprendimientos o instituciones locales. Mejorar el dominio de frontend, backend, bases de datos y despliegues.",
+      "icon": "development",
+      "focusAreas": [
+        "Frontend",
+        "Backend",
+        "Bases de datos",
+        "Despliegues"
+      ]
+    },
+    {
+      "id": "goal-five-years",
+      "period": "A cinco años",
+      "shortPeriod": "5 años",
+      "title": "Crear una agencia tecnológica",
+      "description": "Crear y dirigir una agencia propia de desarrollo tecnológico, enfocada en soluciones web y aplicaciones para empresas locales. También explorar proyectos relacionados con videojuegos y formar un equipo capaz de construir productos digitales profesionales.",
+      "icon": "agency",
+      "focusAreas": [
+        "Agencia propia",
+        "Empresas locales",
+        "Videojuegos",
+        "Liderazgo de equipo"
+      ]
+    }
+  ]
+}

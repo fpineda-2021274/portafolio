@@ -1,0 +1,61 @@
+{
+  "eyebrow": "Trabajo práctico",
+  "title": "Proyectos",
+  "description": "Aplicaciones preparadas para documentar tecnologías, aprendizajes, código fuente y capturas de funcionamiento.",
+  "items": [
+    {
+      "id": "project-1",
+      "title": "[Título del proyecto 1]",
+      "description": "[Descripción breve]",
+      "technologies": [
+        "[Tecnología 1]",
+        "[Tecnología 2]"
+      ],
+      "learnings": [
+        "[Aprendizaje 1]",
+        "[Aprendizaje 2]"
+      ],
+      "githubUrl": "[URL de GitHub]",
+      "images": [
+        "/images/projects/project-1/screenshot-1.png",
+        "/images/projects/project-1/screenshot-2.png"
+      ]
+    },
+    {
+      "id": "project-2",
+      "title": "[Título del proyecto 2]",
+      "description": "[Descripción breve]",
+      "technologies": [
+        "[Tecnología 1]",
+        "[Tecnología 2]"
+      ],
+      "learnings": [
+        "[Aprendizaje 1]",
+        "[Aprendizaje 2]"
+      ],
+      "githubUrl": "[URL de GitHub]",
+      "images": [
+        "/images/projects/project-2/screenshot-1.png",
+        "/images/projects/project-2/screenshot-2.png"
+      ]
+    },
+    {
+      "id": "project-3",
+      "title": "[Título del proyecto 3]",
+      "description": "[Descripción breve]",
+      "technologies": [
+        "[Tecnología 1]",
+        "[Tecnología 2]"
+      ],
+      "learnings": [
+        "[Aprendizaje 1]",
+        "[Aprendizaje 2]"
+      ],
+      "githubUrl": "[URL de GitHub]",
+      "images": [
+        "/images/projects/project-3/screenshot-1.png",
+        "/images/projects/project-3/screenshot-2.png"
+      ]
+    }
+  ]
+}

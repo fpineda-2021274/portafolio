@@ -1,0 +1,84 @@
+{
+  "eyebrow": "Perfil técnico",
+  "title": "Inventario de habilidades",
+  "description": "Selección interactiva de habilidades principales y tecnologías utilizadas durante la formación académica.",
+  "skills": [
+    {
+      "id": "frontend",
+      "name": "Frontend",
+      "level": 65,
+      "category": "Desarrollo de interfaces",
+      "icon": "layout"
+    },
+    {
+      "id": "databases",
+      "name": "Bases de datos",
+      "level": 90,
+      "category": "Gestión de información",
+      "icon": "database"
+    },
+    {
+      "id": "teamwork",
+      "name": "Trabajo en equipo",
+      "level": 85,
+      "category": "Colaboración",
+      "icon": "users"
+    },
+    {
+      "id": "backend",
+      "name": "Backend",
+      "level": 60,
+      "category": "Lógica de servidor",
+      "icon": "server"
+    },
+    {
+      "id": "problem-solving",
+      "name": "Resolución de problemas",
+      "level": 59,
+      "category": "Pensamiento lógico",
+      "icon": "puzzle"
+    }
+  ],
+  "technologies": [
+    {
+      "name": "HTML",
+      "icon": "code"
+    },
+    {
+      "name": "CSS",
+      "icon": "palette"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "braces"
+    },
+    {
+      "name": "React",
+      "icon": "atom"
+    },
+    {
+      "name": "Node.js",
+      "icon": "hexagon"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "leaf"
+    },
+    {
+      "name": "MySQL",
+      "icon": "database"
+    },
+    {
+      "name": "Git",
+      "icon": "git-branch"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github"
+    },
+    {
+      "name": "Figma",
+      "icon": "figma"
+    }
+  ]
+}

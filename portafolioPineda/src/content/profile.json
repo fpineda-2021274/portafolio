@@ -1,0 +1,112 @@
+{
+  "fullName": "Franklin Alejandro Pineda Garrido",
+  "visibleName": "FRANKLIN PINEDA",
+  "developerName": "FRANKLIN_PINEDA",
+  "title": "Desarrollador Full Stack Junior",
+  "age": 18,
+  "city": "Ciudad de Guatemala",
+  "institution": "Centro Educativo Técnico Laboral Kinal",
+  "educationLevel": "6.º Perito en Informática",
+  "email": "fpineda-2021274@kinal.edu.gt",
+  "whatsapp": "4672-4363",
+  "availability": "Disponible para innovar",
+  "professionalFocus": "Desarrollo Full Stack",
+  "mainGoal": "Convertirse en Ingeniero en Sistemas",
+  "additionalInterest": "Videojuegos",
+  "phrase": "Transformo ideas en experiencias digitales mediante lógica, innovación y código con propósito.",
+  "description": "Soy Franklin Alejandro Pineda Garrido, Desarrollador Full Stack Junior enfocado en la creación de páginas y aplicaciones web. Me interesa analizar cada problema y convertirlo en una solución funcional mediante código organizado, bases de datos bien estructuradas y experiencias claras para el usuario. Destaco por mi aprendizaje rápido, mi capacidad de trabajo en equipo y mi disposición para asumir nuevos retos mientras avanzo hacia mi meta de convertirme en Ingeniero en Sistemas y crear mi propia agencia tecnológica.",
+  "avatar": {
+    "src": "/images/profile/franklin-avatar-placeholder.webp",
+    "alt": "Avatar tecnológico genérico de Franklin Pineda",
+    "useExternalImage": false
+  },
+  "primaryAction": {
+    "label": "Ver portafolio",
+    "target": "#sobre-mi"
+  },
+  "technologyBadges": [
+    "React",
+    "JavaScript",
+    "Full Stack"
+  ],
+  "profileDetails": [
+    {
+      "key": "name",
+      "label": "Nombre",
+      "value": "Franklin Alejandro Pineda Garrido"
+    },
+    {
+      "key": "age",
+      "label": "Edad",
+      "value": "18 años"
+    },
+    {
+      "key": "city",
+      "label": "Ciudad",
+      "value": "Ciudad de Guatemala"
+    },
+    {
+      "key": "institution",
+      "label": "Institución",
+      "value": "Centro Educativo Técnico Laboral Kinal"
+    },
+    {
+      "key": "education",
+      "label": "Grado",
+      "value": "6.º Perito en Informática"
+    },
+    {
+      "key": "email",
+      "label": "Correo",
+      "value": "fpineda-2021274@kinal.edu.gt",
+      "href": "mailto:fpineda-2021274@kinal.edu.gt"
+    },
+    {
+      "key": "whatsapp",
+      "label": "WhatsApp",
+      "value": "4672-4363",
+      "href": "https://wa.me/50246724363"
+    },
+    {
+      "key": "availability",
+      "label": "Disponibilidad",
+      "value": "Disponible para innovar"
+    },
+    {
+      "key": "focus",
+      "label": "Enfoque profesional",
+      "value": "Desarrollo Full Stack"
+    },
+    {
+      "key": "goal",
+      "label": "Meta principal",
+      "value": "Convertirse en Ingeniero en Sistemas"
+    }
+  ],
+  "interactiveProfile": {
+    "identidad": {
+      "nombre": "Franklin Alejandro Pineda Garrido",
+      "edad": 18,
+      "ciudad": "Ciudad de Guatemala"
+    },
+    "perfil": {
+      "rol": "Desarrollador Full Stack Junior",
+      "enfoque": "Páginas y aplicaciones web",
+      "disponibilidad": "Disponible para innovar"
+    },
+    "formacion": {
+      "institucion": "Centro Educativo Técnico Laboral Kinal",
+      "grado": "6.º Perito en Informática",
+      "experiencia": "Académica y proyectos"
+    },
+    "objetivos": {
+      "profesion": "Ingeniero en Sistemas",
+      "especialidad": "Full Stack",
+      "interes": "Videojuegos"
+    },
+    "contacto": {
+      "correo": "fpineda-2021274@kinal.edu.gt",
+      "whatsapp": "4672-4363"
+    }
+  }
+}
