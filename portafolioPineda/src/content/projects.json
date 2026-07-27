@@ -5,17 +5,21 @@
   "items": [
     {
       "id": "project-1",
-      "title": "[Título del proyecto 1]",
-      "description": "[Descripción breve]",
+      "title": "[Proyecto Banco]",
+      "description": "[Plataforma bancaria digital desarrollada con una arquitectura full-stack. El frontend está construido con React y Vite para una experiencia de usuario rápida y moderna, respaldada por un backend robusto que gestiona transacciones y la lógica del sistema]",
       "technologies": [
         "[Tecnología 1]",
-        "[Tecnología 2]"
+        "[Git: Utilizado para el control de versiones y la gestión del historial de cambios mediante ramas como development y main.]",
+        "[Tecnología 2]",
+        "[Control de Hooks: Implementación de scripts de enganche (hooks de Git como pre-commit y pre-push) para automatizar validaciones del código fuente.]"
       ],
       "learnings": [
         "[Aprendizaje 1]",
-        "[Aprendizaje 2]"
+        "[Desarrollo Full-Stack: Creación y estructuración de aplicaciones web y móviles para prácticas escolares.]",
+        "[Aprendizaje 2]",
+        "[Configuración de Servidores y Layouts: Pruebas con arquitecturas de servidor y diseño de interfaces mediante archivos de estilo y configuración.]"
       ],
-      "githubUrl": "[URL de GitHub]",
+      "githubUrl": "[https://github.com/aarocha-2024203/ProyectoBancario]",
       "images": [
         "/images/projects/project-1/screenshot-1.png",
         "/images/projects/project-1/screenshot-2.png"
@@ -23,17 +27,21 @@
     },
     {
       "id": "project-2",
-      "title": "[Título del proyecto 2]",
-      "description": "[Descripción breve]",
+      "title": "[Proyecto Restaurante]",
+      "description": "[Sistema interactivo para restaurantes que optimiza la experiencia de clientes y personal. Construido con una interfaz ágil en React + Vite y respaldado por un servidor backend para procesar reservas, menús dinámicos y pedidos en tiempo real.]",
       "technologies": [
         "[Tecnología 1]",
-        "[Tecnología 2]"
+        "[Git: Utilizado para el control de versiones y la gestión del historial de cambios mediante ramas como development y main.]",
+        "[Tecnología 2]",
+        "[Control de Hooks: Implementación de scripts de enganche (hooks de Git como pre-commit y pre-push) para automatizar validaciones del código fuente.]"
       ],
       "learnings": [
         "[Aprendizaje 1]",
-        "[Aprendizaje 2]"
+        "[Desarrollo Full-Stack: Creación y estructuración de aplicaciones web y móviles para prácticas escolares.]",
+        "[Aprendizaje 2]",
+        "[Configuración de Servidores y Layouts: Pruebas con arquitecturas de servidor y diseño de interfaces mediante archivos de estilo y configuración.]"
       ],
-      "githubUrl": "[URL de GitHub]",
+      "githubUrl": "[https://github.com/hsamayoa-2021462/ProyectoGRestaurantes3]",
       "images": [
         "/images/projects/project-2/screenshot-1.png",
         "/images/projects/project-2/screenshot-2.png"
@@ -41,15 +49,19 @@
     },
     {
       "id": "project-3",
-      "title": "[Título del proyecto 3]",
-      "description": "[Descripción breve]",
+      "title": "[Consecionaria de motos ]",
+      "description": "[Sitio web interactivo para una concesionaria de motocicletas. Diseñado con una interfaz moderna y completamente responsiva utilizando HTML, CSS y JavaScript puro, destacando catálogos de vehículos, galerías y secciones de contacto dinámicas.]",
       "technologies": [
-        "[Tecnología 1]",
-        "[Tecnología 2]"
+        "HTML5",
+        "Git: Utilizado para el control de versiones y la gestión del historial de cambios.",
+        "CSS3",
+        "JavaScript: Manipulación dinámica del DOM y creación de filtros y galerías interactivas."
       ],
       "learnings": [
-        "[Aprendizaje 1]",
-        "[Aprendizaje 2]"
+        "Implementación de diseño responsivo (Mobile First) para optimizar la visualización de catálogos.",
+        "Desarrollo Full-Stack: Creación y estructuración de aplicaciones web y catálogos interactivos para la gestión de vehículos.",
+        "Optimización de la experiencia de usuario mediante interactividad y componentes fluidos.",
+        "Configuración de Servidores y Layouts: Pruebas con estructuras de diseño y despliegue del sitio."
       ],
       "githubUrl": "[URL de GitHub]",
       "images": [

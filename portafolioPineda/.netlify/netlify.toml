@@ -7,9 +7,10 @@ headers = []
 [functions."*"]
 
 [build]
-publish = "C:\\Users\\USER\\Downloads\\portafolioPineda\\portafolioPineda\\dist"
+publish = "C:\\portafolio\\portafolioPineda\\dist"
 publishOrigin = "config"
 commandOrigin = "config"
+base = "C:\\portafolio\\portafolioPineda"
 command = "pnpm build"
 
 [build.environment]
